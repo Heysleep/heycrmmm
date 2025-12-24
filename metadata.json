@@ -1,0 +1,7 @@
+{
+  "name": "DreamCraft CRM (手工床垫工坊)",
+  "description": "A professional, AI-powered CRM specifically designed for handmade mattress artisans. Features lead tracking, custom order management, inventory monitoring, and Gemini AI sales assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
